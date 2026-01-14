@@ -37,16 +37,11 @@ I aim to craft solutions that blend sound engineering with modern AI capabilitie
 | 🧰 Tools | ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge) |
 
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hiteshhacks&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hiteshhacks&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshhacks&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hiteshhacks&theme=neon" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshhacks&layout=compact&theme=neon" height="160px" />
-<br/>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
 
 ---
 
