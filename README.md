@@ -50,7 +50,7 @@ I aim to craft solutions that blend sound engineering with modern AI capabilitie
 
 <div align="center">
   
-![Visitor Count](https://visitcount.itsvg.in/api?id=hiteshhacks&icon=6&color=0)
+[![](https://visitcount.itsvg.in/api?id=hiteshhacks&icon=6&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
