@@ -25,6 +25,10 @@ I aim to craft solutions that blend sound engineering with modern AI capabilitie
 - **LLM Integrations & RAG Systems**
 
 ---
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh-parate-5786aa31b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HiteshParate45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paratehitesh45@gmail.com) 
+
+---
 
 # 🛠️ Tech Stack & Expertise
 
