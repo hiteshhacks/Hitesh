@@ -1,14 +1,6 @@
 <!-- HEADER GIF -->
-![AI Research Banner](./banner.svg)
-
-
-# 👋 Hi, I'm **Hitesh Parate**
-### B.Tech in Artificial Intelligence & Machine Learning  
-### **AI & ML Engineer | GenAI | LLMs | Backend Systems**  
-📍 *Nagpur, India*
-
+![AboutME Banner ](./new2.svg)
 ---
-
 ## 🚀 About Me
 I am a driven **AIML Engineer** passionate about building intelligent systems that bridge complex data with real-world impact.  
 My focus lies in **Generative AI**, **LLM systems**, **backend engineering**, and **scalable automation pipelines**.
@@ -40,12 +32,12 @@ I aim to craft solutions that blend sound engineering with modern AI capabilitie
 | 🗄️ Databases | ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge) |
 | 🧰 Tools | ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge) |
 
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hiteshhacks&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hiteshhacks&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshhacks&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 
